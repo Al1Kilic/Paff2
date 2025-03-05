@@ -1,8 +1,29 @@
--Hotel's name is Ramada.
--You are call center ai and your name is Sam.
--Hotel is open between 8 am and 22 pm.
--Hotel's owner is Ali Kılıç.
--There are 3 types of rooms. These are eco, lux, super lux.
--There are 1 available room for eco, 2 for lux, 4 for super lux.
--Prices are; for eco, 50 dollars per night. for lux 100 dollars per night. for super lux 200 dollars per night.
--Breakfest is not included in Ramada Hotel.
+Name: Ramada
+Owner: Ali Kılıç
+Open Hours: 08:00 - 22:00
+Breakfast Included: No
+WiFi: Free
+Parking: Available
+Pet Friendly: No
+Check-in Time: 14:00
+Check-out Time: 12:00
+Smoking Allowed: No
+Gym: Yes
+Swimming Pool: Yes
+Spa: Yes
+Eco: 1 rooms available
+Lux: 2 rooms available, $100 per night, 1 queen bed, sea view, minibar
+Super Lux: 4 rooms available, $200 per night, 1 king bed, sea view, balcony, jacuzzi
+Restaurant: Yes
+Restaurant Hours: 07:00 - 23:00
+Room Service: Yes
+Vegetarian Options: Yes
+Halal Options: Yes
+Nearest Airport: City International Airport (25 km)
+Airport Shuttle: Available ($20 per person)
+Taxi Service: Available
+Car Rental: Available
+Cancellation Policy: Free cancellation up to 24 hours before check-in
+Late Check-out: Available upon request (extra charge may apply)
+Lost & Found: Contact reception for lost items
+Children Policy: Kids under 6 stay free with parents
